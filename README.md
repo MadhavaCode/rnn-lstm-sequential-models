@@ -1,4 +1,4 @@
-# rnn-lstm-sequential-models
+# Recurrent Neural Network and Long Short-Term Memory Models
 
 Recurrent Neural Networks and LSTMs for processing sequential data.
 
